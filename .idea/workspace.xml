@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="28d82282-4b14-448f-92ea-91a49f1169a3" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/components/stripe-button/stripe-button.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/public/favicon.ico" beforeDir="false" afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/checkout/checkout.component.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/checkout/checkout.component.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/pages/checkout/checkout.styles.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/pages/checkout/checkout.styles.scss" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/public/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/public/index.html" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -33,20 +27,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/components/pages/checkout/checkout.component.jsx">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
+            <state relative-caret-position="225">
+              <caret line="25" column="78" lean-forward="true" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/components/pages/checkout/checkout.styles.scss">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/components/pages/checkout/checkout.component.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+            <state relative-caret-position="-435">
+              <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
             </state>
           </provider>
         </entry>
@@ -77,7 +71,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/components/sign-up/sign-up.styles.scss" />
         <option value="$PROJECT_DIR$/src/components/pages/sign-in-and-sign-up/sign-in-and-sign-up.component.jsx" />
         <option value="$PROJECT_DIR$/src/components/pages/sign-in-and-sign-up/sign-in-and-sign-up.styles.scss" />
         <option value="$PROJECT_DIR$/src/components/sign-up/sign-up.component.jsx" />
@@ -128,6 +121,7 @@
         <option value="$PROJECT_DIR$/src/components/stripe-button/stripe-button.component.jsx" />
         <option value="$PROJECT_DIR$/src/components/pages/checkout/checkout.component.jsx" />
         <option value="$PROJECT_DIR$/src/components/pages/checkout/checkout.styles.scss" />
+        <option value="$PROJECT_DIR$/public/index.html" />
       </list>
     </option>
   </component>
@@ -235,12 +229,12 @@
       <workItem from="1572085999987" duration="1530000" />
       <workItem from="1572094072811" duration="2088000" />
       <workItem from="1572096426666" duration="1717000" />
-      <workItem from="1572167386666" duration="11219000" />
+      <workItem from="1572167386666" duration="11359000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="61676000" />
+    <option name="totallyTimeSpent" value="61816000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1440" height="811" extended-state="0" />
@@ -635,17 +629,24 @@
     <entry file="file://$PROJECT_DIR$/public/favicon.ico">
       <provider selected="true" editor-type-id="images" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="43" selection-start-line="4" selection-start-column="40" selection-end-line="4" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/package.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
           <caret line="14" column="29" lean-forward="true" selection-start-line="14" selection-start-column="29" selection-end-line="14" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/checkout/checkout.styles.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/components/pages/checkout/checkout.component.jsx">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-435">
+          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
         </state>
       </provider>
     </entry>
@@ -659,17 +660,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/pages/checkout/checkout.component.jsx">
+    <entry file="file://$PROJECT_DIR$/public/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="26" lean-forward="true" selection-start-column="26" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/components/pages/checkout/checkout.styles.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="42" column="1" selection-start-line="42" selection-start-column="1" selection-end-line="42" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="25" column="78" lean-forward="true" selection-start-line="25" selection-start-column="78" selection-end-line="25" selection-end-column="78" />
         </state>
       </provider>
     </entry>
